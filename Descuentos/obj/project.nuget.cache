@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJrlD6kXDZfN+ZkV9Dt3WTwJFZj5hcdcEPA+NKB8LOKO/ryaOgni5h6Ae7O1phonyuiZllY/5gRlIgVSbABc1w==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\UPQROO\\Cuatrimestre-3\\Programacion Visual\\Descuentos\\Descuentos\\Descuentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

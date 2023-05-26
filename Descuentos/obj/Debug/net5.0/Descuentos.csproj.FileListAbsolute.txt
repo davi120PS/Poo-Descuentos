@@ -1,0 +1,16 @@
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\bin\Debug\net5.0\Descuentos.exe
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\bin\Debug\net5.0\Descuentos.deps.json
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\bin\Debug\net5.0\Descuentos.runtimeconfig.json
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\bin\Debug\net5.0\Descuentos.runtimeconfig.dev.json
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\bin\Debug\net5.0\Descuentos.dll
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\bin\Debug\net5.0\Descuentos.pdb
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.csproj.AssemblyReference.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.AssemblyInfoInputs.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.AssemblyInfo.cs
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.csproj.CoreCompileInputs.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.dll
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\refint\Descuentos.dll
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.pdb
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\Descuentos.genruntimeconfig.cache
+D:\Documents\UPQROO\Cuatrimestre-3\Programacion Visual\Descuentos\Descuentos\obj\Debug\net5.0\ref\Descuentos.dll
