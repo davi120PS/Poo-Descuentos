@@ -17,7 +17,7 @@ namespace Descuentos.Functions
             Console.Clear();
             for (int i = 0; i < 5; i++)
             {
-
+                //comentar
 
                 Console.WriteLine(" COMPRA DE ARTICULOS ");
                 Console.WriteLine("No. articulo: " + (i+1));
